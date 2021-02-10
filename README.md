@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="FMS_Cat" src="./images/funky.gif">
+  <img alt="FMS_Cat" src="./images/fms_cat_gold.gif">
 </p>
 
 [![@fms-cat/experimental](https://badge.fury.io/js/%40fms-cat%2Fexperimental.svg)](https://badge.fury.io/js/%40fms-cat%2Fexperimental)
